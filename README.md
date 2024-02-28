@@ -6,5 +6,9 @@ Nano Sistema Operacional escrito em Assembly. Esse é um projeto voltado para os
 
 * Assembly
 * NASM
+
+## Ferramentas
+
+* XXD
 * Qemu
 * Make
