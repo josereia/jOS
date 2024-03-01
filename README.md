@@ -13,12 +13,58 @@ Nano Sistema Operacional escrito em Assembly. Esse é um projeto voltado para os
 - Qemu
 - Make
 
-## Sistema Operacional
+## Projeto
 
 ### Boot
 
 - Legado(MBR)
 - BIOS SERVICES
+
+## Como rodar
+
+### Requisitos
+
+Antes de começar, instale os softwares abaixo em sua máquina:
+
+- Linux:
+
+  - GNU/Make
+
+- MacOS:
+  - Brew
+  - GNU/Make
+
+Com os requisitos cumpridos, basta executar os seguintes comandos para:
+
+### Instalar as dependências
+
+```bash
+make linux-deps
+```
+
+ou
+
+```bash
+make macos-deps
+```
+
+### Construir imagem
+
+```bash
+make build
+```
+
+### Executar SO
+
+```bash
+make run
+```
+
+### Limpar o lixo
+
+```bash
+make clean
+```
 
 ## Bibliografia
 
