@@ -13,7 +13,7 @@ Nano Sistema Operacional escrito em Assembly. Esse é um projeto voltado para os
 - Qemu
 - Make
 
-## Projeto
+## O Projeto
 
 ### Boot
 
@@ -24,10 +24,9 @@ Nano Sistema Operacional escrito em Assembly. Esse é um projeto voltado para os
 
 ### Requisitos
 
-Antes de começar, instale os softwares abaixo em sua máquina:
+Antes de começar, instale os softwares abaixo em sua máquina.
 
 - Linux:
-
   - GNU/Make
 
 - MacOS:
